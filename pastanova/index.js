@@ -1,1 +1,1 @@
-"hoje, quarta feira estou aprendendo a usar o github"
+"uma nova postagem no github"
